@@ -1,0 +1,37 @@
+Plan for Investigation, Analysis, and POC Building
+
+The goal of this phase is to explore the Home Credit dataset and assess its potential for building a predictive model to evaluate loan default risk. This will form the foundation of a proof-of-concept (POC) for a risk assessment service targeted at retail banking clients.
+
+
+Assumptions
+The Home Credit dataset is sufficiently representative of data typically held by retail banks.
+Predictive modeling can offer actionable insights into customer loan repayment risk.
+There is interest among financial institutions in automated, data-driven credit risk evaluation.
+We have access to the necessary computing resources (local or cloud-based) to analyze and model the data.
+
+Overall Task for the Project:
+To explore the Home Credit dataset, generate informative features, and build multiple predictive models that can collectively demonstrate your startup’s capability to evaluate loan risk robustly.
+
+Step-by-Step Plan:
+Step 1: Acquire and Prepare the Dataset
+Objective: Download and clean the Home Credit dataset to ensure it’s ready for analysis.
+Outcome: A structured, cleaned dataset without major quality issues.
+
+Step 2: Explore the Data
+Objective: Perform exploratory data analysis (EDA) to understand variable distributions, missing data, and relationships.
+Outcome: Insights and visualizations highlighting interesting features and patterns.
+
+Step 3: Feature Engineering
+Objective: Create new features that could help the models detect default risk (e.g., credit history aggregates, income ratios).
+Outcome: Expanded dataset with enriched features tailored for predictive modeling.
+
+Step 4: Build Multiple Predictive Models
+Objective: Develop and train a variety of machine learning models (e.g., logistic regression, decision trees, random forests) to predict loan default risk.
+Outcome: A diverse set of models with evaluated performance metrics.
+
+Step 5: Compare and Refine Models
+Objective: Analyze model results to identify complementary strengths and weaknesses, refining where needed.
+Outcome: A portfolio of models offering robust, diversified predictive power.
+
+
+
