@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+catboost==1.2.7
+joblib==1.4.2
+fastapi==0.115.12
+uvicorn==0.34.3
+python-multipart==0.0.20
+streamlit==1.39.0
+requests==2.32.3
